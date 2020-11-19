@@ -1,0 +1,19 @@
+{
+  "name": "ch-vuepress",
+  "version": "0.0.1",
+  "description": "Personal website",
+  "main": "index.js",
+  "authors": {
+    "name": "Cooper Hollmaier",
+    "email": "cooperhollmaier@icloud.com"
+  },
+  "repository": "vue-press/ch-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
